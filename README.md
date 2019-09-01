@@ -1,0 +1,2 @@
+# dotspacemacs
+spacemacs private config
